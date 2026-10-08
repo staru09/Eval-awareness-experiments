@@ -1,0 +1,13 @@
+# Pipeline package: the evalaware CLI (probe, generate, score), at the exact commit the runs used.
+evalaware @ git+https://github.com/staru09/eval-awareness@101b817
+vllm==0.31.0
+torch==2.13.0
+transformers==5.17.0
+datasets>=4.0
+huggingface_hub
+numpy
+scipy
+pandas
+pyarrow
+langdetect
+matplotlib

@@ -1,0 +1,10 @@
+# Prompt files are rebuilt by the scripts in data/ and are not redistributed:
+# WildChat, LMSYS-Chat-1M and ShareGPT are redistribution-restricted.
+data/*.json
+output/
+__pycache__/
+.venv/
+*.npz
+*.zip
+figures/
+runs/
