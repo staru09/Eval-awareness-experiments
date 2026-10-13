@@ -11,3 +11,5 @@ pandas
 pyarrow
 langdetect
 matplotlib
+scikit-learn
+pyyaml
